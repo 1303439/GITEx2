@@ -15,7 +15,8 @@ public class JavaApplication14 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hey Lisa, GitHub is working now! :D");        
+        System.out.println("Hey Lisa, GitHub is working now! :D");     
+        System.out.println("woo");
     }
     
 }
