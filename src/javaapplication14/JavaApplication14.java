@@ -17,7 +17,8 @@ public class JavaApplication14 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("");
+        System.out.println("Welcome to Lab 4");
+        GeneralDictionary dict = new GeneralDictionary();
     }
     
 }
